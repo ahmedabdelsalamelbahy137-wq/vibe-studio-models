@@ -1,0 +1,1 @@
+AI models for Vibe Studio. The model files are in the Releases section of this repository.
